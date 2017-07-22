@@ -1,4 +1,4 @@
-## APT & CyberCriminal Campaign Collection
+## CyberCriminal
 
 I collect data from [kbandla](https://github.com/kbandla/APTnotes) and other reseearchers.
 
